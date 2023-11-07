@@ -1,5 +1,5 @@
 #primer programa que escribes en un nuevo lenguaje
-print("hello,world")
+
 
 #escribir el valor de la resistencia
 print("ingresar  el valor de la resistencia")
