@@ -1,14 +1,13 @@
 #primer programa que escribes en un nuevo lenguaje
-print("hello,world")
 
 lista= ["manzana","naranja","pera","uva","mandarina"]
-print (lista [4])
+print (lista [1])
 
 lista= ["manzana","naranja","pera","uva","mandarina"]
-print (lista )
+print (lista[2] )
 
 lista= ["manzana","naranja","pera","uva","mandarina"]
-print (lista [3])
+print (lista [1,2])
 
 
 
