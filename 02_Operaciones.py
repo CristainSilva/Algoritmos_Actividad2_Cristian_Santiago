@@ -1,5 +1,5 @@
 #primer programa que escribes en un nuevo lenguaje
-print("hello,world")
+
 
 #02 operaciones
 print("escribir cualquier valor numerico")
